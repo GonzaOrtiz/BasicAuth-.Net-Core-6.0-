@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae1b334b-d3bb-4391-bdf8-0d114be5e3cb": {
+      "ProjectGuid": "ae1b334b-d3bb-4391-bdf8-0d114be5e3cb",
+      "DisplayName": "BasicAuthentication .NET 6.0",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

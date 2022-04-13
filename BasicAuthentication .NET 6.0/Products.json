@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Description": "Shoes",
+    "Brand": "Nike",
+    "Price": 180
+  },
+  {
+    "Id": 2,
+    "Description": "Shirt",
+    "Brand": "Alemani",
+    "Price": 70
+  },
+  {
+    "Id": 3,
+    "Description": "Shoes",
+    "Brand": "Adidas",
+    "Price": 60
+  },
+  {
+    "Id": 4,
+    "Description": "Hat",
+    "Brand": "Puma",
+    "Price": 30
+  },
+  {
+    "Id": 5,
+    "Description": "Shoes",
+    "Brand": "Nike",
+    "Price": 60
+  },
+  {
+    "Id": 6,
+    "Description": "Shirt",
+    "Brand": "Gucci",
+    "Price": 95
+  }
+]
